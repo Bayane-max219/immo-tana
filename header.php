@@ -55,6 +55,10 @@
 
         <!-- CTA -->
         <div class="header-actions">
+            <a href="<?php echo esc_url( admin_url() ); ?>" class="btn-admin-header" title="Accès démo : admin / admin123">
+                <i class="fas fa-lock"></i>
+                <span>Admin</span>
+            </a>
             <a href="https://wa.me/261348349886" target="_blank" rel="noopener" class="btn-whatsapp-header">
                 <i class="fab fa-whatsapp"></i>
                 <span>Contactez-nous</span>
