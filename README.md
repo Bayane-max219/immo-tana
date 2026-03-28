@@ -11,6 +11,23 @@
 
 ---
 
+## 📸 Screenshots
+
+| | |
+|---|---|
+| ![Accueil](screenshoots/01-Accueil.png) | ![Nos biens](screenshoots/02-Biens.png) |
+| *01 — Page Accueil (Hero + stats)* | *02 — Section Nos biens* |
+| ![Services](screenshoots/03-Services.png) | ![À propos](screenshoots/04-Propos.png) |
+| *03 — Services* | *04 — À propos* |
+| ![Contact](screenshoots/05-Contact.png) | ![Footer](screenshoots/06-Footer.png) |
+| *05 — Formulaire contact* | *06 — Footer + carte* |
+| ![Détail bien](screenshoots/07-Details.png) | ![Ajout bien admin](screenshoots/08-Ajout.png) |
+| *07 — Page détail bien* | *08 — Ajout bien (CRUD admin)* |
+| ![FTP déploiement](screenshoots/09-FTP.png) | ![CRUD liste](screenshoots/10-CRUD.png) |
+| *09 — Déploiement FTP InfinityFree* | *10 — Liste biens admin (CRUD)* |
+
+---
+
 ## 🔐 Accès Recruteur (Demo)
 
 | Rôle | URL | Identifiant | Mot de passe |
